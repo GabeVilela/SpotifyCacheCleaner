@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "SpotifyCacheCleaner.Cli": {
+      "commandName": "Project"
+    },
+    "Cli quiet": {
+      "commandName": "Project",
+      "commandLineArgs": "--quiet"
+    }
+  }
+}
